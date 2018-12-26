@@ -1,2 +1,2 @@
 # Arcade_ArkanoidController
-See https://www.hackster.io/projects/143fa7/
+See https://www.hackster.io/TurtleForGaming/digispark-arkanoid-controller-143fa7
